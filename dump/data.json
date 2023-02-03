@@ -1,0 +1,1 @@
+{"Player": {"level": 1, "name": "Roberto", "cost": [10, 20, 50, 100, 200, "max"], "color": ["white", "red", "red", "blue", "blue", "black"], "speed": [2, 4, 5, 6, 7, 9]}, "first_time": false}
